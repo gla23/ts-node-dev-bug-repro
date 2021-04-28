@@ -1,0 +1,7 @@
+{
+	"include": ["main.ts"],
+	"compilerOptions": {
+		"outDir": "dist",
+		"strict": true
+	}
+}
